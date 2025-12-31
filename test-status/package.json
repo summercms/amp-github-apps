@@ -22,7 +22,7 @@
   "dependencies": {
     "body-parser": "1.19.0",
     "connect-session-knex": "1.5.0",
-    "express": "4.17.1",
+    "express": "4.22.1",
     "express-session": "1.17.0",
     "express-validator": "6.3.0",
     "knex": "0.20.3",
@@ -34,11 +34,11 @@
   "devDependencies": {
     "deepcopy": "2.0.0",
     "fancy-log": "1.3.3",
-    "jest": "24.9.0",
+    "jest": "30.2.0",
     "nock": "11.7.0",
     "nodemon": "2.0.1",
     "smee-client": "1.1.0",
-    "sqlite3": "4.1.0",
+    "sqlite3": "4.2.0",
     "supertest": "4.0.2"
   },
   "jest": {
