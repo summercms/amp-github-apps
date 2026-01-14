@@ -21,7 +21,7 @@
   "dependencies": {
     "dotenv": "8.2.0",
     "express": "4.17.1",
-    "probot": "9.6.6",
+    "probot": "14.2.4",
     "typescript": "3.7.2"
   },
   "devDependencies": {
@@ -31,7 +31,7 @@
     "@types/node": "12.12.14",
     "@typescript-eslint/eslint-plugin": "2.9.0",
     "@typescript-eslint/parser": "2.9.0",
-    "eslint": "6.7.2",
+    "eslint": "9.39.1",
     "jest": "24.9.0",
     "nodemon": "2.0.1",
     "smee-client": "1.1.0",
